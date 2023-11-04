@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="banner_subtitle" formatted="false">por el equipo de Paranoid Android</string>
+    <string name="device_version" formatted="false">Versión</string>
+    <string name="device_android_version" formatted="false">Versión de Android</string>
+    <string name="device_security_patchset" formatted="false">Versión de seguridad</string>
+    <string name="device_changelog" formatted="false">Lista de cambios del dispositivo</string>
+    <string name="platform_changelog" formatted="false">Lista de cambios de %s %1s</string>
+    <string name="local_update" formatted="false">Actualización Local</string>
+    <string name="settings" formatted="false">Ajustes</string>
+    <string name="enable_beta_description" formatted="false">Activar esta opción priorizará la búsqueda de betas.</string>
+    <string name="install_update_button" formatted="false">Instalar actualización</string>
+    <string name="cancel_button" formatted="false">Cancelar</string>
+    <string name="find_update_button" formatted="false">Buscar actualización</string>
+    <string name="downloading_file" formatted="false">Descargando archivo</string>
+    <string name="downloaded_file" formatted="false">Descargado</string>
+    <string name="available_to_download" formatted="false">Nuevo %s %s está disponible</string>
+    <string name="available_to_download_stable" formatted="false">%s %s está disponible</string>
+    <string name="downloading_update_notification_title" formatted="false">Descargando %s %s</string>
+    <string name="downloading_update_notification_summary" formatted="false">Una nueva actualización está disponible para tu dispositivo.</string>
+    <string name="connecting" formatted="false">Conectando…</string>
+    <string name="searching_for_update" formatted="false">Buscando actualización, sea paciente</string>
+    <string name="last_checked" formatted="false" >Última búsqueda:</string>
+    <string name="system_up_to_date" formatted="false">El sistema está en su última versión</string>
+    <string name="install_action" formatted="false">Instalar</string>
+    <string name="cancel_action" formatted="false">Cancelar</string>
+    <string name="local_update_title" formatted="false">Antes de instalar una actualización local, asegúrese haber descargado correctamente el archivo instalable</string>
+    <string name="local_update_summary" formatted="false">Continúe bajo su riesgo al flashear el archivo instalable</string>
+    <string name="install_local_update" formatted="false">Instalar actualización local</string>
+</resources>
