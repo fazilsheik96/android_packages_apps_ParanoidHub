@@ -2,7 +2,7 @@
     <string name="app_name">System Update</string>
 
     <!-- The server that hosts the update files -->
-    <string name="system_update_server_url" translatable="false">"https://raw.githubusercontent.com/fazilsheik96/ota/master/"</string>
+    <string name="system_update_server_url" translatable="false">"https://github.com/fazilsheik96/ota/master/"</string>
 
     <!-- Directory where the update files will be downloaded and stored.
          WARNING: The application can and will delete any unknown file. -->
